@@ -35,28 +35,6 @@ This AI agent is designed to compete in strategic games using advanced search te
 - Python 3.x
 - Required libraries: `numpy`, `random`, `time`
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/ai-game-agent.git
-   cd ai-game-agent
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the AI agent:
-   ```bash
-   python main.py
-   ```
-
-## 🚀 How to Run
-1. **Place `input.txt`** in the working directory.
-2. Run the agent using:
-   ```sh
-   python3 homework.py
-3. **Check `output.txt`** for the AI's move.
-
 
 ### ⏳ Time Management
 - The AI operates under a **300-second total time limit**.

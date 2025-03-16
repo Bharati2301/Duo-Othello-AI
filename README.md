@@ -1,4 +1,4 @@
-# 🏆 Duo-Othello AI Agent - CSCI-561 Spring 2024
+# 🏆 Duo-Othello AI Agent
 
 ## 📌 Overview
 This project is part of **CSCI-561 - Foundations of Artificial Intelligence** at USC. It involves implementing an AI agent to play **Duo-Othello**, a variation of the classic **Reversi/Othello** game. The agent competes against other agents using **game-tree search techniques** like Minimax and Alpha-Beta pruning.

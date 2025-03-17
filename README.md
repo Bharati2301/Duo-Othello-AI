@@ -4,10 +4,10 @@
 This project is part of **CSCI-561 - Foundations of Artificial Intelligence** at USC. It involves implementing an AI agent to play **Duo-Othello**, a variation of the classic **Reversi/Othello** game. The agent competes against other agents using **game-tree search techniques** like Minimax and Alpha-Beta pruning.
 
 ## 🎯 Project Goals
-- ✅ Implement a **Duo-Othello AI agent**.
-- ✅ Compete against **TA-provided agents** and other students' agents.
-- ✅ Optimize **decision-making under time constraints**.
-- ✅ Develop an **evaluation function** for strategic gameplay.
+- Implement a **Duo-Othello AI agent**.
+- Compete against **TA-provided agents** and other students' agents.
+- Optimize **decision-making under time constraints**.
+- Develop an **evaluation function** for strategic gameplay.
 
 ## 🕹️ Game Rules
 Duo-Othello is similar to Reversi but with some twists:
@@ -41,6 +41,6 @@ This AI agent is designed to compete in strategic games using advanced search te
 - It **dynamically adjusts search depth** based on remaining time to ensure efficient gameplay.
 
 ## 📌 Future Improvements
-- 🌲 Implement **Monte Carlo Tree Search (MCTS)** for probabilistic decision-making.
-- 📊 Optimize **heuristic evaluation function** for improved performance.
-- 🚀 Add **parallel processing** to enable deeper search within time constraints.
+- Implement **Monte Carlo Tree Search (MCTS)** for probabilistic decision-making.
+- Optimize **heuristic evaluation function** for improved performance.
+- Add **parallel processing** to enable deeper search within time constraints.
